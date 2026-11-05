@@ -1,6 +1,6 @@
 <img src="assets/banner.svg" width="100%" alt="Felipe Landgraf — Desenvolvimento de software, aplicações web, jogos e educação" />
 
-Sou **Felipe Landgraf**, desenvolvedor de software com atuação em aplicações web e jogos. Participo dos projetos **Bandeja** e **Cronos** e sou responsável pelo **desenvolvimento completo do Cronos Fighter**.
+Sou **Felipe Landgraf**, estudante do curso de **Desenvolvimento de Sistemas no COTIL–Unicamp** e desenvolvedor de software com atuação em aplicações web e jogos. Participo dos projetos **Bandeja** e **Cronos** e sou responsável pelo **desenvolvimento completo do Cronos Fighter**.
 
 Meu portfólio reúne trabalho em equipe e um jogo desenvolvido integralmente por mim, com foco em interação, experiência do usuário e aprendizado.
 
