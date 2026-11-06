@@ -8,7 +8,7 @@ Este é o meu **portfólio de apresentação**, onde reúno meus projetos e most
 
 | Projeto | Sobre | Acessar |
 | --- | --- | --- |
-| **FL Barbearia** | Sistema de agendamentos feito com Java, PostgreSQL, HTML, CSS e JavaScript. | [Código](https://github.com/Felipe-Landgraf/fl-barbearia) |
+| **FL Barbearia** | Sistema de agendamentos feito com Java, PostgreSQL, HTML, CSS e JavaScript. | [Ver site](https://fl-barbearia.onrender.com/) · [Código](https://github.com/Felipe-Landgraf/fl-barbearia) |
 | **FL Finanças** | Organizador de finanças pessoais feito com HTML, CSS e TypeScript. | [Ver site](https://felipe-landgraf.github.io/fl-financas/) · [Código](https://github.com/Felipe-Landgraf/fl-financas) |
 | **Forma Arquitetura** | Site de arquitetura feito com HTML, CSS e JavaScript. | [Ver site](https://felipe-landgraf.github.io/forma-arquitetura/) · [Código](https://github.com/Felipe-Landgraf/forma-arquitetura) |
 | **Cronos Fighter** | Jogo de luta para navegador desenvolvido integralmente por mim. | [Jogar](https://felipe-landgraf.github.io/cronos-fighter/) · [Código](https://github.com/Felipe-Landgraf/cronos-fighter) |
