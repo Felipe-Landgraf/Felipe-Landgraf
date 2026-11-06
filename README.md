@@ -2,9 +2,24 @@
 
 Sou **Felipe Landgraf**, estudante do curso de **Desenvolvimento de Sistemas no COTIL–Unicamp** e desenvolvedor de software com atuação em aplicações web e jogos. Participo dos projetos **Bandeja** e **Cronos** e sou responsável pelo **desenvolvimento completo do Cronos Fighter**.
 
-Meu portfólio reúne trabalho em equipe e um jogo desenvolvido integralmente por mim, com foco em interação, experiência do usuário e aprendizado.
+Meu portfólio reúne interfaces web, um jogo desenvolvido integralmente por mim e participação em projetos em equipe. Tenho foco em interação, experiência do usuário e aprendizado.
 
-## Projeto em destaque
+## Projetos em destaque
+
+| Projeto | Tecnologias | Demonstração | Código |
+| --- | --- | --- | --- |
+| Forma Arquitetura | HTML, CSS e JavaScript | [Ver site](https://felipe-landgraf.github.io/forma-arquitetura/) | [Repositório](https://github.com/Felipe-Landgraf/forma-arquitetura) |
+| Cronos Fighter | JavaScript, Canvas e Web Audio | [Jogar](https://felipe-landgraf.github.io/cronos-fighter/) | [Repositório](https://github.com/Felipe-Landgraf/cronos-fighter) |
+
+### Forma Arquitetura
+
+<a href="https://felipe-landgraf.github.io/forma-arquitetura/"><img src="https://raw.githubusercontent.com/Felipe-Landgraf/forma-arquitetura/main/docs/previa.jpg" alt="Página inicial do Forma Arquitetura" width="800" /></a>
+
+**Desenvolvimento web · HTML, CSS e JavaScript puro**
+
+Site de um escritório fictício de arquitetura, com quatro páginas, layout responsivo, galeria com filtros e janela de detalhes, menu móvel e formulário com validação. Projeto de portfólio com foco em estrutura semântica, organização do CSS e manipulação do DOM.
+
+[Ver site](https://felipe-landgraf.github.io/forma-arquitetura/) · [Ver o repositório](https://github.com/Felipe-Landgraf/forma-arquitetura)
 
 ### Cronos Fighter
 
@@ -21,7 +36,7 @@ Personagens históricos se encontram em uma arena que conecta diferentes períod
 
 **Tecnologias:** JavaScript · HTML · CSS · Canvas API · Web Audio API
 
-[Jogar no Cronos](https://joguecronos.com.br/#minigames/cronos-fighters) · [Ver o repositório](https://github.com/Felipe-Landgraf/cronos-fighter)
+[Jogar no navegador](https://felipe-landgraf.github.io/cronos-fighter/) · [Ver o repositório](https://github.com/Felipe-Landgraf/cronos-fighter)
 
 ## Projetos em equipe
 
