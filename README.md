@@ -9,7 +9,7 @@ Este é o meu **portfólio de apresentação**, onde reúno meus projetos e most
 | Projeto | Sobre | Acessar |
 | --- | --- | --- |
 | **Cronos Fighter** | Jogo de luta para navegador desenvolvido integralmente por mim. | [Jogar](https://felipe-landgraf.github.io/cronos-fighter/) · [Código](https://github.com/Felipe-Landgraf/cronos-fighter) |
-| **Meu Controle** | Dashboard de finanças pessoais com receitas, despesas, filtros e gráficos mensais. Next.js, TypeScript e PostgreSQL. | [Código e instruções](https://github.com/Felipe-Landgraf/meu-controle) |
+| **Meu Controle** | Dashboard de finanças pessoais com receitas, despesas, filtros e gráficos mensais. Next.js, TypeScript e PostgreSQL. | [Abrir demonstração](https://felipe-landgraf.github.io/meu-controle/) · [Código e instruções](https://github.com/Felipe-Landgraf/meu-controle) |
 
 ## Projetos em equipe
 
